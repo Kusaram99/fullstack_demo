@@ -5,3 +5,8 @@
     "express" ,
     "joi",
     "mongoose" `
+
+### To run project
+- Run:  `npm start`
+- Or
+- Run: `node app.js`
